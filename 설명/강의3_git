@@ -27,3 +27,21 @@ git config list
 게시(branch) 버튼 --->개인 
                   ---> 공용 둘 중 하나 누른다.
 게시됨
+
+
+https://github.com/hansemun1-web/GIT.git
+다운로드 위치
+
+
+vscode 시작 git 레포지토리 복제 선택하면
+깃을 불러온다.
+
+
+
+pull하는 방법
+
+깃에서 수정
+
+소스제어 메뉴에 풀 메뉴 누른다.
+
+풀하면 문제가 생길 우려가 있다.
