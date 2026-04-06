@@ -1,0 +1,25 @@
+
+
+https://git-scm.com/
+
+git 설치시
+use visual studio get default 변경
+오버라이드 메인 변경
+
+
+
+https://github.com/  가입
+
+
+
+
+터미널 git bash로 변경
+
+사용자 계정 설정
+git config --global user.name "hansemun1-web"
+
+git config --global user.email "hansemun1@gmail.com"
+
+
+git config list
+
