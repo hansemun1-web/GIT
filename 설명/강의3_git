@@ -23,3 +23,7 @@ git config --global user.email "hansemun1@gmail.com"
 
 git config list
 
+
+게시(branch) 버튼 --->개인 
+                  ---> 공용 둘 중 하나 누른다.
+게시됨
